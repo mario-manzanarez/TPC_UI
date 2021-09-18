@@ -1,0 +1,1 @@
+INSERT INTO TopicosWeb.usuarios (id, nombre, usuario, pass) VALUES (1, 'Mario', 'mario_1', 'mario123');

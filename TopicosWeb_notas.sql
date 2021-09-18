@@ -1,0 +1,5 @@
+INSERT INTO TopicosWeb.notas (id, titulo, nota, creada, id_usuario) VALUES (2, 'segunda--editada', 'Segunda nota creada por el mismo usuario', '2021-09-16', 1);
+INSERT INTO TopicosWeb.notas (id, titulo, nota, creada, id_usuario) VALUES (5, 'Prueba Home', 'Prueba desde el home.php para probar el redireccionamiento y la excepcion.', '2021-09-16', 1);
+INSERT INTO TopicosWeb.notas (id, titulo, nota, creada, id_usuario) VALUES (6, 'Probando estilos -- formulario editar', 'Esta es una nota para probar estilos, la prueba consiste en tener mas de 3 notas con div card', '2021-09-16', 1);
+INSERT INTO TopicosWeb.notas (id, titulo, nota, creada, id_usuario) VALUES (7, 'Formulario a un lado', 'Con esta nota se pretende ver que el formulario a la derecha se ve adecuadamente.', '2021-09-17', 1);
+INSERT INTO TopicosWeb.notas (id, titulo, nota, creada, id_usuario) VALUES (8, 'Comida Méxicana', 'La noche del 15 de septiembre es muy común que las personas coman pozole, tamales, tacos entre otras comidas típicas de nuestro país', '2021-09-17', 1);
